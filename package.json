@@ -5,7 +5,7 @@
   },
   "name": "syncorm",
   "description": "Syncronous ORM",
-  "version": "0.1.54",
+  "version": "0.1.55",
   "repository": {
     "type": "git",
     "url": "https://github.com/jbaylina/syncorm.git"
@@ -23,7 +23,7 @@
     "commander": "^2.7.1",
     "events": "~1.0.2",
     "lodash": "^3.10.1",
-    "mysql": "~2.6.2",
+    "mysql": "~2.15.0",
     "pluralize": "^1.1.2",
     "prompt": "^0.2.14",
     "timezone": "0.0.41",
