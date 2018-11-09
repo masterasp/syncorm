@@ -15,7 +15,7 @@ let options = {
     exclude_insert: [],
     exclude_update: [],
     exclude_delete: []
-}
+};
 
 async.series([function (cb) {
     program
