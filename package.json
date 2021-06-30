@@ -1,14 +1,14 @@
 {
   "author": {
-    "name": "Jordi Baylina",
-    "email": "jordi@baylina.cat"
+    "name": "MasterCamping S.L",
+    "email": "dev@mastercamping.com"
   },
   "name": "syncorm",
   "description": "Syncronous ORM",
-  "version": "0.1.57",
+  "version": "0.1.58",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jbaylina/syncorm.git"
+    "url": "https://github.com/mastercamping/syncorm.git"
   },
   "main": "./lib/syncorm",
   "keywords": [
